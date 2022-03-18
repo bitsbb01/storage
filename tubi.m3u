@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://filmrise.com/uploads/images/_medium/Splash-Option-4.1HD.jpg" group-title="Tubi TV",Filmrise
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/Splash-Option-4.1HD.jpg" group-title="Tubi TV",Filmrise
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Filmrise.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png" group-title="Tubi TV",Buzzr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/1200px-Buzzr_logo.svg.png" group-title="Tubi TV",Buzzr
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Buzzr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadwaysd.com/wp-content/uploads/2019/06/MST3K-main-1.jpg" group-title="Tubi TV",MST3K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/MST3K-main-1.jpg" group-title="Tubi TV",MST3K
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MST3K.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wisconsinpublictv.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/09/The_Carol_Burnett_Show_4028x2692.jpg" group-title="Tubi TV",The Carol Burnett Show
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/The_Carol_Burnett_Show_4028x2692.jpg" group-title="Tubi TV",The Carol Burnett Show
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Carol-Burnett.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/59/d9/1b/59d91bdc6b4c77b2431efb75dbd9eebf.png" group-title="Tubi TV",BayWatch
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/59d91bdc6b4c77b2431efb75dbd9eebf.png" group-title="Tubi TV",BayWatch
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Baywatch.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mpng.subpng.com/20180511/oue/kisspng-bloomberg-television-streaming-media-bloomberg-bus-5af51694c45483.3257026215260115408042.jpg" group-title="Tubi TV",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/kisspng-bloomberg-television-streaming-media-bloomberg-bus-5af51694c45483.3257026215260115408042.jpg" group-title="Tubi TV",Bloomberg TV
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Bloomberg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPWENTEvPdwc/v0/-1x-1.png" group-title="Tubi TV",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/bitsbb01/storage/raw/main/logos/-1x-1.png" group-title="Tubi TV",Bloomberg Quicktake
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Quicktake.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tubi TV",CBC News Canada
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
